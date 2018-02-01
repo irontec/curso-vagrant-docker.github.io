@@ -1,4 +1,4 @@
-# ![Vagrantfile](./slides/images/vagrant.png "Docker")
+# ![Vagrantfile](./slides/images/docker2.png "Docker")
 
 ### Redes
 
