@@ -1,0 +1,74 @@
+[
+    "index.md",
+    [
+        "vagrant/index.md",
+        "vagrant/whatIs.md",
+        "vagrant/why.md",
+        "vagrant/why2.md",
+        "vagrant/why3.md",
+        "vagrant/whatUses.md",
+        "vagrant/How.md",
+        "vagrant/Vagrantfile.md",
+        "vagrant/install.md"
+    ],
+    [
+        {
+            "filename": "vagrant/Docker/index.md",
+            "attr": {
+            }
+        },
+        {
+            "filename": "vagrant/Docker/Vagrantfile.md",
+            "attr": {
+            }
+        }
+    ],
+    [
+        "docker/index.md",
+        "docker/whatis.md",
+        "docker/whatis3.md",
+        "docker/isVM.md",
+        "docker/vmdiferencesVM.md",
+        "docker/vmdiferencesDocker.md",
+        "docker/image.md",
+        "docker/image2.md",
+        "docker/image3.md",
+        "docker/container.md",
+        "docker/container1.md"
+    ],
+    [
+        "docker/install/install.md",
+        "docker/install/ubuntu.md",
+        "docker/install/ubuntu2.md"
+    ],
+    [
+        "docker/use/indexImages.md",
+        "docker/use/imagesCommands.md",
+        "docker/use/imagesCommands2.md",
+        "docker/use/imagesCommands3.md",
+        "docker/use/dockerhub.md",
+        "docker/use/dockerhub2.md",
+        "docker/use/dockerhub3.md"
+    ],
+    [
+        "docker/use/indexContainers.md",
+        "docker/use/containers.md",
+        "docker/use/containers2.md",
+        "docker/use/containers3.md",
+        "docker/use/containers4.md"
+    ],
+    [
+        "networking/index.md",
+        "networking/createNetwork.md"
+    ],
+    [
+        "docker/Dockerfile/index.md",
+        "docker/Dockerfile/whatIs.md",
+        "docker/Dockerfile/dockerfile.md",
+        "docker/Dockerfile/example.md"
+    ],
+    [
+        "VagrantfileDocker/index.md",
+        "VagrantfileDocker/ejemplos.md"
+    ]
+]
